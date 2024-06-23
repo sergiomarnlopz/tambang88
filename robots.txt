@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tambang88.arxman.com/sitemap.xml
